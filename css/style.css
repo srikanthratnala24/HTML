@@ -1,0 +1,20 @@
+body {
+    background-color : black;
+    color : rgb(240, 216, 216);
+    font-size : 21 px;
+    font-family: sans-serif;
+}
+
+p {
+    color: rgb(0, 255, 60);
+}
+
+h1 {
+    font-size: 70 px; 
+    color: pink;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
